@@ -38,3 +38,9 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## GitHub Repository
+
+- **Repository:** https://github.com/Sammy42779/myOpenClaw
+- **Workspace:** /Users/sammy/.openclaw/workspace
+- **Rule:** After completing any coding task, commit and push changes to this repository
