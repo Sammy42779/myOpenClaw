@@ -44,3 +44,9 @@ Add whatever helps you do your job. This is your cheat sheet.
 - **Repository:** https://github.com/Sammy42779/myOpenClaw
 - **Workspace:** /Users/sammy/.openclaw/workspace
 - **Rule:** After completing any coding task, commit and push changes to this repository
+
+## Connected Node
+
+- **Node:** sammy的MacBook Pro (172.20.10.4)
+- **App Version:** 2026.2.6 (9039)
+- **Mode:** local
